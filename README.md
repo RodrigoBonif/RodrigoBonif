@@ -1,9 +1,9 @@
-### Seja bem-vindo, Sou Rodrigo Bonifácio Conceição 
+## Seja bem-vindo, Sou Rodrigo Bonifácio Conceição
 
 📚 - Formado no curso técnico de informática no Instituto Federal Catarinense
 <hr>
 <div style-"display: inline_block">
-<h2>✏️ - LINGUAGENS</h2>
+<h2>✏️ - Linguagens</h2>
 <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="JAVASCRIPT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -12,10 +12,11 @@
 </div>
 <hr>
 <div>
-  <a href="https://github.com/guilhermealbanaz">
+  <a href="https://github.com/RodrigoBonif">
     <br>
-    <img height="300em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBonif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBonif&langs_count=5&theme=tokyonight"/>  
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBonif&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBonif&langs_count=5&theme=midnight-purple"/>  
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=RodrigoBonif)](https://git.io/streak-stats)
 </div>
 <hr>
 <div>
