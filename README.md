@@ -16,7 +16,6 @@
     <br>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBonif&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBonif&langs_count=5&theme=midnight-purple"/>  
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=RodrigoBonif)](https://git.io/streak-stats)
 </div>
 <hr>
 <div>
