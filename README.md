@@ -23,13 +23,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoBonif&theme=radical"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoBonif&theme=radical"/>
 </div>
-<hr>
 <div>
-  <img height="200em" src="https://user-images.githubusercontent.com/81045937/234731882-307fa476-82a1-4e96-9e13-c0db8fdd3184.gif"/>
-  <div>
-    " Uma pessoa que nunca cometeu um erro,
-    <br>
-    nunca tentou nada de novo " - Albert Einstein 
   <hr>
     <a href="https://www.linkedin.com/in/guilherme-bragato-albanaz-8a22b422b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/RodrigoBonif" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
